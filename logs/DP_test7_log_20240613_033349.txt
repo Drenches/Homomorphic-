@@ -1,0 +1,364 @@
+traing batch size 4    
+sigma: 0.5000
+learning rate (f1): 0.01, learning rate (f1): 0.001
+    max_norm: 1
+Epoch 0
+Test Loss: 0.5124, Test Accuracy: 84.61%
+
+Epoch 1
+Test Loss: 0.3275, Test Accuracy: 90.11%
+
+Epoch 2
+Test Loss: 0.2595, Test Accuracy: 93.41%
+
+Epoch 3
+Test Loss: 0.1837, Test Accuracy: 94.52%
+
+Epoch 4
+Test Loss: 0.2105, Test Accuracy: 93.62%
+
+Epoch 5
+Test Loss: 0.2317, Test Accuracy: 93.78%
+
+Epoch 6
+Test Loss: 0.2071, Test Accuracy: 93.79%
+
+Epoch 7
+Test Loss: 0.1946, Test Accuracy: 94.79%
+
+Epoch 8
+Test Loss: 0.1738, Test Accuracy: 94.76%
+
+Epoch 9
+Test Loss: 0.1927, Test Accuracy: 94.20%
+
+Epoch 10
+Test Loss: 0.1807, Test Accuracy: 94.57%
+
+Epoch 11
+Test Loss: 0.1741, Test Accuracy: 95.47%
+
+Epoch 12
+Test Loss: 0.2794, Test Accuracy: 92.48%
+
+Epoch 13
+Test Loss: 0.2274, Test Accuracy: 93.97%
+
+Epoch 14
+Test Loss: 0.2984, Test Accuracy: 93.44%
+
+Epoch 15
+Test Loss: 0.2982, Test Accuracy: 92.42%
+
+Epoch 16
+Test Loss: 0.2801, Test Accuracy: 93.42%
+
+Epoch 17
+Test Loss: 0.3564, Test Accuracy: 92.22%
+
+Epoch 18
+Test Loss: 0.2740, Test Accuracy: 92.91%
+
+Epoch 19
+Test Loss: 0.2211, Test Accuracy: 93.99%
+
+Epoch 20
+Test Loss: 0.1525, Test Accuracy: 95.36%
+
+Epoch 21
+Test Loss: 0.1972, Test Accuracy: 94.16%
+
+Epoch 22
+Test Loss: 0.1405, Test Accuracy: 95.86%
+
+Epoch 23
+Test Loss: 0.2397, Test Accuracy: 93.23%
+
+Epoch 24
+Test Loss: 0.1572, Test Accuracy: 95.29%
+
+Epoch 25
+Test Loss: 0.1687, Test Accuracy: 95.46%
+
+Epoch 26
+Test Loss: 0.3498, Test Accuracy: 90.66%
+
+Epoch 27
+Test Loss: 0.2797, Test Accuracy: 92.22%
+
+Epoch 28
+Test Loss: 0.3716, Test Accuracy: 90.65%
+
+Epoch 29
+Test Loss: 0.2192, Test Accuracy: 93.94%
+
+Epoch 30
+Test Loss: 0.2476, Test Accuracy: 92.31%
+
+Epoch 31
+Test Loss: 1.6915, Test Accuracy: 79.71%
+
+Epoch 32
+Test Loss: 0.3981, Test Accuracy: 93.08%
+
+Epoch 33
+Test Loss: 0.1861, Test Accuracy: 95.31%
+
+Epoch 34
+Test Loss: 1.1769, Test Accuracy: 81.15%
+
+Epoch 35
+Test Loss: 0.2695, Test Accuracy: 93.35%
+
+Epoch 36
+Test Loss: 0.1646, Test Accuracy: 95.18%
+
+Epoch 37
+Test Loss: 0.1726, Test Accuracy: 94.61%
+
+Epoch 38
+Test Loss: 0.1570, Test Accuracy: 95.16%
+
+Epoch 39
+Test Loss: 0.5494, Test Accuracy: 90.26%
+
+Epoch 40
+Test Loss: 0.3702, Test Accuracy: 91.01%
+
+Epoch 41
+Test Loss: 0.5871, Test Accuracy: 90.10%
+
+Epoch 42
+Test Loss: 0.4118, Test Accuracy: 92.13%
+
+Epoch 43
+Test Loss: 0.5014, Test Accuracy: 91.42%
+
+Epoch 44
+Test Loss: 0.3378, Test Accuracy: 93.01%
+
+Epoch 45
+Test Loss: 0.2615, Test Accuracy: 92.81%
+
+Epoch 46
+Test Loss: 0.1836, Test Accuracy: 94.28%
+
+Epoch 47
+Test Loss: 0.1434, Test Accuracy: 95.79%
+
+Epoch 48
+Test Loss: 0.1810, Test Accuracy: 94.37%
+
+Epoch 49
+Test Loss: 0.1604, Test Accuracy: 95.14%
+
+Epoch 50
+Test Loss: 0.2369, Test Accuracy: 92.48%
+
+Epoch 51
+Test Loss: 0.2093, Test Accuracy: 94.22%
+
+Epoch 52
+Test Loss: 0.1517, Test Accuracy: 95.46%
+
+Epoch 53
+Test Loss: 0.4469, Test Accuracy: 90.35%
+
+Epoch 54
+Test Loss: 2.5134, Test Accuracy: 77.98%
+
+Epoch 55
+Test Loss: 0.9397, Test Accuracy: 84.22%
+
+Epoch 56
+Test Loss: 1.4334, Test Accuracy: 83.61%
+
+Epoch 57
+Test Loss: 0.7416, Test Accuracy: 88.17%
+
+Epoch 58
+Test Loss: 0.3469, Test Accuracy: 92.43%
+
+Epoch 59
+Test Loss: 0.2347, Test Accuracy: 92.40%
+
+Epoch 60
+Test Loss: 0.2403, Test Accuracy: 93.02%
+
+Epoch 61
+Test Loss: 0.2048, Test Accuracy: 93.98%
+
+Epoch 62
+Test Loss: 0.1636, Test Accuracy: 94.78%
+
+Epoch 63
+Test Loss: 0.1835, Test Accuracy: 94.76%
+
+Epoch 64
+Test Loss: 0.1890, Test Accuracy: 94.14%
+
+Epoch 65
+Test Loss: 0.1769, Test Accuracy: 95.09%
+
+Epoch 66
+Test Loss: 0.1798, Test Accuracy: 94.89%
+
+Epoch 67
+Test Loss: 0.2020, Test Accuracy: 94.10%
+
+Epoch 68
+Test Loss: 0.1800, Test Accuracy: 95.35%
+
+Epoch 69
+Test Loss: 0.3224, Test Accuracy: 92.32%
+
+Epoch 70
+Test Loss: 0.2266, Test Accuracy: 93.99%
+
+Epoch 71
+Test Loss: 0.1716, Test Accuracy: 94.81%
+
+Epoch 72
+Test Loss: 0.2824, Test Accuracy: 93.36%
+
+Epoch 73
+Test Loss: 0.1709, Test Accuracy: 94.91%
+
+Epoch 74
+Test Loss: 0.7458, Test Accuracy: 89.23%
+
+Epoch 75
+Test Loss: 0.1980, Test Accuracy: 94.90%
+
+Epoch 76
+Test Loss: 1.7625, Test Accuracy: 80.45%
+
+Epoch 77
+Test Loss: 2.0339, Test Accuracy: 78.24%
+
+Epoch 78
+Test Loss: 0.5758, Test Accuracy: 86.66%
+
+Epoch 79
+Test Loss: 0.2142, Test Accuracy: 94.89%
+
+Epoch 80
+Test Loss: 0.2138, Test Accuracy: 94.34%
+
+Epoch 81
+Test Loss: 0.7555, Test Accuracy: 87.60%
+
+Epoch 82
+Test Loss: 0.4042, Test Accuracy: 89.78%
+
+Epoch 83
+Test Loss: 0.3022, Test Accuracy: 91.85%
+
+Epoch 84
+Test Loss: 0.1892, Test Accuracy: 94.39%
+
+Epoch 85
+Test Loss: 1.2233, Test Accuracy: 81.87%
+
+Epoch 86
+Test Loss: 0.5631, Test Accuracy: 90.48%
+
+Epoch 87
+Test Loss: 0.6138, Test Accuracy: 86.66%
+
+Epoch 88
+Test Loss: 0.2469, Test Accuracy: 93.34%
+
+Epoch 89
+Test Loss: 0.2427, Test Accuracy: 92.93%
+
+Epoch 90
+Test Loss: 0.2583, Test Accuracy: 92.68%
+
+Epoch 91
+Test Loss: 0.1421, Test Accuracy: 95.81%
+
+Epoch 92
+Test Loss: 0.1543, Test Accuracy: 95.34%
+
+Epoch 93
+Test Loss: 0.1729, Test Accuracy: 95.05%
+
+Epoch 94
+Test Loss: 0.2451, Test Accuracy: 92.66%
+
+Epoch 95
+Test Loss: 0.3335, Test Accuracy: 91.10%
+
+Epoch 96
+Test Loss: 0.1942, Test Accuracy: 94.59%
+
+Epoch 97
+Test Loss: 0.1494, Test Accuracy: 95.69%
+
+Epoch 98
+Test Loss: 0.2329, Test Accuracy: 93.11%
+
+Epoch 99
+Test Loss: 0.2435, Test Accuracy: 92.97%
+
+Epoch 100
+Test Loss: 0.2746, Test Accuracy: 92.49%
+
+Epoch 101
+Test Loss: 0.1902, Test Accuracy: 95.42%
+
+Epoch 102
+Test Loss: 0.2453, Test Accuracy: 93.42%
+
+Epoch 103
+Test Loss: 0.2424, Test Accuracy: 92.63%
+
+Epoch 104
+Test Loss: 0.2016, Test Accuracy: 94.84%
+
+Epoch 105
+Test Loss: 0.2348, Test Accuracy: 93.67%
+
+Epoch 106
+Test Loss: 0.2207, Test Accuracy: 93.69%
+
+Epoch 107
+Test Loss: 0.1775, Test Accuracy: 94.45%
+
+Epoch 108
+Test Loss: 0.1861, Test Accuracy: 94.44%
+
+Epoch 109
+Test Loss: 0.2364, Test Accuracy: 93.26%
+
+Epoch 110
+Test Loss: 0.2368, Test Accuracy: 94.00%
+
+Epoch 111
+Test Loss: 0.2148, Test Accuracy: 94.68%
+
+Epoch 112
+Test Loss: 0.2842, Test Accuracy: 91.93%
+
+Epoch 113
+Test Loss: 0.3991, Test Accuracy: 91.08%
+
+Epoch 114
+Test Loss: 0.3007, Test Accuracy: 93.30%
+
+Epoch 115
+Test Loss: 0.6312, Test Accuracy: 90.52%
+
+Epoch 116
+Test Loss: 0.5313, Test Accuracy: 90.90%
+
+Epoch 117
+Test Loss: 0.2356, Test Accuracy: 94.03%
+
+Epoch 118
+Test Loss: 0.3366, Test Accuracy: 90.91%
+
+Epoch 119
+Test Loss: 0.2579, Test Accuracy: 92.64%
+

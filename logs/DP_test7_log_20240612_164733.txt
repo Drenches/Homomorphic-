@@ -1,0 +1,4 @@
+traing batch size 32    
+sigma: 0.5000
+learning rate (f1): 0.01, learning rate (f1): 0.01
+    max_norm: 1

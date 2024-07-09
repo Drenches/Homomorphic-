@@ -1,0 +1,112 @@
+traing batch size 32    
+sigma: 0.1000
+learning rate (f1): 0.01, learning rate (f1): 0.01
+    max_norm: 1
+Epoch 0
+Test Loss: 1.0738, Test Accuracy: 64.93%
+
+Epoch 1
+Test Loss: 1.0151, Test Accuracy: 69.53%
+
+Epoch 2
+Test Loss: 0.8840, Test Accuracy: 72.25%
+
+Epoch 3
+Test Loss: 0.8728, Test Accuracy: 73.50%
+
+Epoch 4
+Test Loss: 0.7993, Test Accuracy: 75.48%
+
+Epoch 5
+Test Loss: 0.8835, Test Accuracy: 73.81%
+
+Epoch 6
+Test Loss: 0.7280, Test Accuracy: 77.73%
+
+Epoch 7
+Test Loss: 0.9789, Test Accuracy: 72.46%
+
+Epoch 8
+Test Loss: 0.7490, Test Accuracy: 77.33%
+
+Epoch 9
+Test Loss: 0.6927, Test Accuracy: 80.18%
+
+Epoch 10
+Test Loss: 0.7961, Test Accuracy: 77.44%
+
+Epoch 11
+Test Loss: 0.6854, Test Accuracy: 79.17%
+
+Epoch 12
+Test Loss: 0.7238, Test Accuracy: 78.05%
+
+Epoch 13
+Test Loss: 0.6461, Test Accuracy: 81.16%
+
+Epoch 14
+Test Loss: 0.7164, Test Accuracy: 78.24%
+
+Epoch 15
+Test Loss: 0.7213, Test Accuracy: 77.56%
+
+Epoch 16
+Test Loss: 0.6412, Test Accuracy: 80.48%
+
+Epoch 17
+Test Loss: 0.6387, Test Accuracy: 80.66%
+
+Epoch 18
+Test Loss: 1.3824, Test Accuracy: 72.73%
+
+Epoch 19
+Test Loss: 1.2265, Test Accuracy: 68.48%
+
+Epoch 20
+Test Loss: 0.7270, Test Accuracy: 77.81%
+
+Epoch 21
+Test Loss: 0.6763, Test Accuracy: 80.54%
+
+Epoch 22
+Test Loss: 0.7572, Test Accuracy: 76.70%
+
+Epoch 23
+Test Loss: 0.8042, Test Accuracy: 75.97%
+
+Epoch 24
+Test Loss: 1.0119, Test Accuracy: 69.83%
+
+Epoch 25
+Test Loss: 0.6967, Test Accuracy: 79.31%
+
+Epoch 26
+Test Loss: 0.6741, Test Accuracy: 79.26%
+
+Epoch 27
+Test Loss: 0.8333, Test Accuracy: 74.51%
+
+Epoch 28
+Test Loss: 0.6672, Test Accuracy: 80.04%
+
+Epoch 29
+Test Loss: 0.6070, Test Accuracy: 81.65%
+
+Epoch 30
+Test Loss: 0.5945, Test Accuracy: 82.48%
+
+Epoch 31
+Test Loss: 0.6292, Test Accuracy: 81.01%
+
+Epoch 32
+Test Loss: 0.6386, Test Accuracy: 80.33%
+
+Epoch 33
+Test Loss: 0.6600, Test Accuracy: 79.36%
+
+Epoch 34
+Test Loss: 1.0176, Test Accuracy: 74.11%
+
+Epoch 35
+Test Loss: 0.8033, Test Accuracy: 75.98%
+

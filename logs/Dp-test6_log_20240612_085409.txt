@@ -1,0 +1,168 @@
+traing batch size 32    
+sigma: 0.0100
+learning rate (f1): 0.01, learning rate (f1): 0.01
+Epoch 0
+Test Loss: 2.3069, Test Accuracy: 10.88%
+
+Epoch 1
+Test Loss: 2.3064, Test Accuracy: 11.17%
+
+Epoch 2
+Test Loss: 2.3060, Test Accuracy: 11.60%
+
+Epoch 3
+Test Loss: 2.3057, Test Accuracy: 12.15%
+
+Epoch 4
+Test Loss: 2.3053, Test Accuracy: 12.67%
+
+Epoch 5
+Test Loss: 2.3050, Test Accuracy: 12.94%
+
+Epoch 6
+Test Loss: 2.3047, Test Accuracy: 13.20%
+
+Epoch 7
+Test Loss: 2.3045, Test Accuracy: 13.56%
+
+Epoch 8
+Test Loss: 2.3042, Test Accuracy: 13.44%
+
+Epoch 9
+Test Loss: 2.3040, Test Accuracy: 13.24%
+
+Epoch 10
+Test Loss: 2.3038, Test Accuracy: 12.95%
+
+Epoch 11
+Test Loss: 2.3037, Test Accuracy: 12.61%
+
+Epoch 12
+Test Loss: 2.3035, Test Accuracy: 12.38%
+
+Epoch 13
+Test Loss: 2.3034, Test Accuracy: 12.05%
+
+Epoch 14
+Test Loss: 2.3032, Test Accuracy: 11.99%
+
+Epoch 15
+Test Loss: 2.3031, Test Accuracy: 11.68%
+
+Epoch 16
+Test Loss: 2.3030, Test Accuracy: 11.51%
+
+Epoch 17
+Test Loss: 2.3029, Test Accuracy: 11.46%
+
+Epoch 18
+Test Loss: 2.3028, Test Accuracy: 11.52%
+
+Epoch 19
+Test Loss: 2.3027, Test Accuracy: 11.48%
+
+Epoch 20
+Test Loss: 2.3026, Test Accuracy: 11.48%
+
+Epoch 21
+Test Loss: 2.3025, Test Accuracy: 11.37%
+
+Epoch 22
+Test Loss: 2.3024, Test Accuracy: 11.19%
+
+Epoch 23
+Test Loss: 2.3024, Test Accuracy: 11.41%
+
+Epoch 24
+Test Loss: 2.3023, Test Accuracy: 11.35%
+
+Epoch 25
+Test Loss: 2.3022, Test Accuracy: 11.43%
+
+Epoch 26
+Test Loss: 2.3021, Test Accuracy: 11.41%
+
+Epoch 27
+Test Loss: 2.3020, Test Accuracy: 11.47%
+
+Epoch 28
+Test Loss: 2.3019, Test Accuracy: 11.46%
+
+Epoch 29
+Test Loss: 2.3017, Test Accuracy: 11.48%
+
+Epoch 30
+Test Loss: 2.3016, Test Accuracy: 11.33%
+
+Epoch 31
+Test Loss: 2.3015, Test Accuracy: 11.31%
+
+Epoch 32
+Test Loss: 2.3014, Test Accuracy: 11.26%
+
+Epoch 33
+Test Loss: 2.3013, Test Accuracy: 11.20%
+
+Epoch 34
+Test Loss: 2.3012, Test Accuracy: 11.05%
+
+Epoch 35
+Test Loss: 2.3011, Test Accuracy: 11.03%
+
+Epoch 36
+Test Loss: 2.3011, Test Accuracy: 10.98%
+
+Epoch 37
+Test Loss: 2.3010, Test Accuracy: 10.91%
+
+Epoch 38
+Test Loss: 2.3009, Test Accuracy: 10.78%
+
+Epoch 39
+Test Loss: 2.3009, Test Accuracy: 10.73%
+
+Epoch 40
+Test Loss: 2.3008, Test Accuracy: 10.68%
+
+Epoch 41
+Test Loss: 2.3008, Test Accuracy: 10.62%
+
+Epoch 42
+Test Loss: 2.3008, Test Accuracy: 10.63%
+
+Epoch 43
+Test Loss: 2.3007, Test Accuracy: 10.60%
+
+Epoch 44
+Test Loss: 2.3007, Test Accuracy: 10.57%
+
+Epoch 45
+Test Loss: 2.3006, Test Accuracy: 10.50%
+
+Epoch 46
+Test Loss: 2.3006, Test Accuracy: 10.52%
+
+Epoch 47
+Test Loss: 2.3005, Test Accuracy: 10.47%
+
+Epoch 48
+Test Loss: 2.3005, Test Accuracy: 10.41%
+
+Epoch 49
+Test Loss: 2.3005, Test Accuracy: 10.38%
+
+Epoch 50
+Test Loss: 2.3004, Test Accuracy: 10.38%
+
+Epoch 51
+Test Loss: 2.3004, Test Accuracy: 10.34%
+
+Epoch 52
+Test Loss: 2.3003, Test Accuracy: 10.33%
+
+Epoch 53
+Test Loss: 2.3003, Test Accuracy: 10.29%
+
+Epoch 54
+Test Loss: 2.3003, Test Accuracy: 10.27%
+

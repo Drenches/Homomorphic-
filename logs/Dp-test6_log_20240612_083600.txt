@@ -1,0 +1,33 @@
+traing batch size 32    
+sigma: 0.1000
+learning rate (f1): 0.01, learning rate (f1): 0.01
+Epoch 0
+Test Loss: 2.2430, Test Accuracy: 16.18%
+
+Epoch 1
+Test Loss: 1.9627, Test Accuracy: 39.70%
+
+Epoch 2
+Test Loss: 1.5611, Test Accuracy: 53.84%
+
+Epoch 3
+Test Loss: 1.2966, Test Accuracy: 62.18%
+
+Epoch 4
+Test Loss: 1.0871, Test Accuracy: 68.19%
+
+Epoch 5
+Test Loss: 0.9193, Test Accuracy: 73.80%
+
+Epoch 6
+Test Loss: 0.8020, Test Accuracy: 77.81%
+
+Epoch 7
+Test Loss: 0.7216, Test Accuracy: 80.51%
+
+Epoch 8
+Test Loss: 0.6616, Test Accuracy: 82.05%
+
+Epoch 9
+Test Loss: 0.6175, Test Accuracy: 83.31%
+

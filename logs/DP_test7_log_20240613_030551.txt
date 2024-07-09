@@ -1,0 +1,13 @@
+traing batch size 8    
+sigma: 0.5000
+learning rate (f1): 0.01, learning rate (f1): 0.01
+    max_norm: 8e-05
+Epoch 0
+Test Loss: 2.3330, Test Accuracy: 19.51%
+
+Epoch 1
+Test Loss: 2.3400, Test Accuracy: 17.23%
+
+Epoch 2
+Test Loss: 2.3138, Test Accuracy: 11.78%
+
